@@ -1,1 +1,2 @@
 # Word-Guess-Game
+In this game, the user will attempt to guess a word one letter at a time. The user will have a set number of times to guess a letter. If the user uses all of their guesses before they are able to solve the word then they lose and will move on to the next word to be guessed. 
